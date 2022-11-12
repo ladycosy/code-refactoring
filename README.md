@@ -8,7 +8,9 @@ It is on-the-job ticket, which means I'll begin with starter code and refactor i
 
 ### User Story
 
-AS a marketing agency I WANT a codebase that follows accessibility standards SO THAT our own site is optimized for search engines.
+AS a marketing agency 
+I WANT a codebase that follows accessibility standards 
+SO THAT our own site is optimized for search engines.
 
 #### Acceptance Criteria
 
