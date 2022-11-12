@@ -12,7 +12,7 @@ AS a marketing agency I WANT a codebase that follows accessibility standards SO 
 
 #### Acceptance Criteria
 
-The website must meet accessibility standards. Achieve this by completing the following:
+The website must meet accessibility standards. This can be achieved by completing the following:
 
 * Semantic HTML elements can be found throughout the source code
 * HTML elements follow a logical structure independent of styling and positioning
