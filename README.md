@@ -21,3 +21,7 @@ The website must meet accessibility standards. This can be achieved by completin
 * Image and icon elements contain accessible `alt` attributes
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
+
+#### Mock-Up Image 
+
+![HTML Logo](https://github.com/ladycosy/horiseon-challenge1/blob/main/assets/images/mock-up%20image.jpeg)
