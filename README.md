@@ -1,10 +1,10 @@
 # Challenge 1 - HTML CSS Git: Code Refactor
 
-This is a first assignment (week 1) for frontend development course.
+This is a first assignment (week 1) for frontend development course. Working independently I will refactor already existing code of a Horiseon website. The goal is to improve website's accessibility by for example exchanging non-semantic to semantic tags or implementing image alt attribute.    
 
 ## Challenge Guide 
 
-It is on-the-job ticket, which means I'll begin with starter code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. The goal is to refactor an existing site to make it more accessible.
+It is on-the-job ticket, which means I'll begin with starter code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. The goal is to refactor an existing site to make it more accessible. I will review the HTML and CSS code in VS Code program.
 
 ### User Story
 
