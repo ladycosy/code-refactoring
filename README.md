@@ -1,4 +1,4 @@
-# Challenge 1 - HTML CSS Git: Code Refactor
+# HTML CSS: Code Refactor
 
 This is a first assignment (week 1) for frontend development course. Working independently I will refactor already existing code of a Horiseon website. The goal is to improve website's accessibility by for example exchanging non-semantic to semantic tags or implementing image alt attribute.    
 
