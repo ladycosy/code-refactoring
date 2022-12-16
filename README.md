@@ -1,8 +1,8 @@
 # HTML CSS: Code Refactor
 
-I will refactor already existing code of a Horiseon website (page's screenshot below). The goal is to improve website's accessibility by exchanging non-semantic to semantic tags and implementing image alt attribute. These updates will remove barriers to interact with the website for those with disabilities and also the browsers will be able to more accurately recognize content of our page.    
+I will refactor already existing code of a Horiseon website. The goal is to improve website's accessibility by exchanging non-semantic to semantic tags and implementing image alt attribute. These updates will remove barriers to interact with the website for those with disabilities and also the browsers will be able to more accurately recognize content of our page.    
 
-## Challenge Guide 
+## Overview
 
 It is on-the-job ticket, which means I'll begin with starter code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. The goal is to refactor an existing site to make it more accessible. I will be using `HTML and CSS` in `VS Code`.
 
