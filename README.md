@@ -1,4 +1,4 @@
-# HTML CSS: Code Refactor
+# HTML CSS: Code Refactoring
 
 I will refactor already existing code of a Horiseon website. The goal is to improve website's accessibility by exchanging non-semantic to semantic tags and implementing image alt attribute. These updates will remove barriers to interact with the website for those with disabilities and also the browsers will be able to more accurately recognize content of our page.    
 
