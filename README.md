@@ -26,3 +26,5 @@ The website must meet accessibility standards. This can be achieved by completin
 ## Mock-Up Image 
 
 ![HTML Logo](https://github.com/ladycosy/horiseon-challenge1/blob/main/assets/images/mock-up%20image.jpeg)
+
+---
