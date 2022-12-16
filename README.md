@@ -1,18 +1,17 @@
 # HTML CSS: Code Refactor
 
-This is a first assignment (week 1) for frontend development course. Working independently I will refactor already existing code of a Horiseon website (page's screenshot below). The goal is to improve website's accessibility by exchanging non-semantic to semantic tags or implementing image alt attribute. These updates will remove barriers to interact with the website for those with disabilities and also the browsers will be able to more accurately recognize content of our page.    
+I will refactor already existing code of a Horiseon website (page's screenshot below). The goal is to improve website's accessibility by exchanging non-semantic to semantic tags and implementing image alt attribute. These updates will remove barriers to interact with the website for those with disabilities and also the browsers will be able to more accurately recognize content of our page.    
 
 ## Challenge Guide 
 
-It is on-the-job ticket, which means I'll begin with starter code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. The goal is to refactor an existing site to make it more accessible. I will review the HTML and CSS code in VS Code program.
+It is on-the-job ticket, which means I'll begin with starter code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. The goal is to refactor an existing site to make it more accessible. I will be using `HTML and CSS` in `VS Code`.
 
 ## User Story
-
+```
 AS a marketing agency 
-
 I WANT a codebase that follows accessibility standards 
-
 SO THAT our own site is optimized for search engines.
+```
 
 ## Acceptance Criteria
 
