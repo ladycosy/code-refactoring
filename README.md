@@ -25,11 +25,15 @@ The website must meet accessibility standards. This can be achieved by completin
 
 ## Mock-Up Image 
 
-![HTML Logo](https://github.com/ladycosy/horiseon-challenge1/blob/main/assets/images/mock-up%20image.jpeg)
+![HTML Logo](<img src="https://github.com/ladycosy/horiseon-challenge1/blob/main/assets/images/mock-up%20image.jpeg" width="400"/>)
 
 ## Link to Deployed Application
 
 [Live URL](https://ladycosy.github.io/code-refactoring/)
+
+## Link to Project GitHub Repo
+
+[GitHub Repo]()
 
 
 ---
