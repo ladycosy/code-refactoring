@@ -23,9 +23,6 @@ The website must meet accessibility standards. This can be achieved by completin
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
-## Mock-Up Image 
-
-<img src="https://github.com/ladycosy/horiseon-challenge1/blob/main/assets/images/mock-up%20image.jpeg" width="400"/>
 
 ## Link to Deployed Application
 
@@ -33,7 +30,10 @@ The website must meet accessibility standards. This can be achieved by completin
 
 ## Link to Project GitHub Repo
 
-[GitHub Repo]()
+[GitHub Repo](https://github.com/ladycosy/code-refactoring.git)
 
+## Mock-Up Image 
+
+<img src="https://github.com/ladycosy/horiseon-challenge1/blob/main/assets/images/mock-up%20image.jpeg" width="400"/>
 
 ---
