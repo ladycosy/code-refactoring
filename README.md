@@ -27,4 +27,9 @@ The website must meet accessibility standards. This can be achieved by completin
 
 ![HTML Logo](https://github.com/ladycosy/horiseon-challenge1/blob/main/assets/images/mock-up%20image.jpeg)
 
+## Link to Deployed Application
+
+[Live URL](https://ladycosy.github.io/code-refactoring/)
+
+
 ---
