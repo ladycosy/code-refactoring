@@ -4,7 +4,7 @@ I will refactor already existing code of a Horiseon website. The goal is to impr
 
 ## Overview
 
-It is on-the-job ticket, which means I'll begin with starter code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. The goal is to refactor an existing site to make it more accessible. I will be using `HTML and CSS` in `VS Code`.
+It is on-the-job ticket, which means I begin with starter code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. The goal is to refactor an existing site to make it more accessible. I use `HTML and CSS` in `VS Code`.
 
 ## User Story
 ```
